@@ -1,0 +1,3 @@
+This file will happily be overwritten.
+
+It's just because Github/git doesn't like empty directories. 
