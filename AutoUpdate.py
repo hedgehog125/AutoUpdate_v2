@@ -1,5 +1,6 @@
 # Released under cc licence: https://creativecommons.org/
 # Made by @hedgehog125 on github.com and scratch.mit.edu
+# On Github: https://github.com/hedgehog125/AutoUpdate_v2/tree/master
 import urllib.request, os, shutil, ast, math
 from time import sleep
 database = "unknown"
